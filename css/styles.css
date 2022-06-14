@@ -292,9 +292,6 @@ img{
     color: var(--primary-text-color);
     margin-bottom: 50px;
 }
-.services-list-item{
-    
-}
 .service-list-overlay{
     position: relative;
 }
